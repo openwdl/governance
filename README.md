@@ -31,12 +31,12 @@ The current members of the governance committee are:
 
 ## Adding a new member
 
-At the core group's discretion a new member may be added by a majority vote. This addition will be done to recognize **significant** contributions to the community. *Contributions* include such things as:
+At the core group's discretion a new member may be added by a majority vote. This addition will be done to recognize **significant** contributions to the community. _Contributions_ include such things as:
 
- - Active participation in discussions, mailing list, forums
- - Community building efforts
- - Helping with documentation, standards documents, etc
- - Building supporting software and tooling
+- contributing directly to the specification,
+- building an execution engine or supporting tooling for WDL,
+- consistent, active participation in community discussions and RFCs, and
+- contributing to documentation or the website (content or blogs).
 
 Generally members are only removed at their own request are due to very long term inactivity. In extreme circumstances the core group can vote to remove a member.
 
