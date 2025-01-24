@@ -1,0 +1,18 @@
+# The RFC process
+
+Technical decisions regarding the WDL specification, decisions on the project's priorities, and changes to the language release schedule are decided the the **Request for Comment (RFC)** process ([learn more](https://en.wikipedia.org/wiki/Request_for_Comments)).
+Smaller issues, such as clarifications to the existing specification that keep the spirit of previously agreed upon technical decisions, grammatical errors, and other housekeeping tasks, are not required to go through this process.
+
+If one intends to make a change that would trigger the RFC process, the following steps should be taken:
+
+1. To begin, an informal discussion of the topic would ideally occur on [Slack](https://join.slack.com/t/openwdl/shared_invite/zt-ctmj4mhf-cFBNxIiZYs6SY9HgM9UAVw) and/or [GitHub discussions](https://github.com/openwdl/wdl/discussions). This serves two purposes: (a) to ensure that no obvious roadblocks to the design or implementation exist and (b) to gauge high-level excitement around the idea. As a rule of thumb, receiving encouraging feedback from long-standing community members is a good indication that the RFC is worth pursuing.
+2. Write up a formal proposal, including requested changes to the current specification, as a [pull request on the `openwdl/wdl` GitHub](https://github.com/openwdl/wdl/pulls). There is no current template of what an RFC pull request should look like, so we suggest looking at previously merged RFCs if you need ideas on where to start.
+3. A core team member will be assigned as the *shepherd* of the RFC. The shepherd shall be responsible for keeping the discussion moving and ensuring all concerns raised during that discussion are responded to.
+4. Work to build broad support from the community. Encouraging people to comment, show support, show dissent, etc. Ultimately the level of community support for a change will decide its fate. 
+5. RFCs rarely go through this process unchanged, especially as alternatives and drawbacks are discovered. You can make edits to the RFC to clarify or change the design, but make changes as new commits to the pull request, and leave a comment on the pull request explaining your changes. Specifically, do not squash or rebase commits after they are visible on the pull request.
+6. Every significant addition or change to the spec will require a test case to be accepted. See the [testing `README.md`](tests/README.md) for details on how to write tests.
+7. When it appears that a discussion is no longer progressing in a constructive way, or a general consensus has been reached, the shepherd will make an official summary on where the consensus has wound up.
+8. The shepherd will put out an official call for votes. This call shall be advertised broadly and will last ten calendar days. Any interested community member (not just the governance committee) may vote via +1/-1 on the pull request.
+9. After the voting process is complete, the governance committee shall decide whether to officially approve or deny this RFC. It is expected that, barring extreme circumstances, this decision will be a rubber stamp of the voting process. An example of an exceptional case would be if representatives for every WDL implementation vote against the feature for feasibility reasons.
+
+When an RFC is approved it will become part of the current draft version of the specification. This will allow time for implementers to verify feasibility and cutting edge users to get used to the new syntax. In order to prevent untested features from entering into an official specification version at least one WDL implementation must support a feature before it’s allowed to be merged into the current draft version.
