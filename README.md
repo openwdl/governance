@@ -18,7 +18,6 @@ The current members of the governance committee are:
 | :-------------------- | :------------------------------------ | :-------------------------------------------------- |
 | John Didion           | Fulcrum Genomics                      | [jdidion](https://github.com/jdidion)               |
 | Taylor Firman         | Fred Hutch                            | [tefirman](https://github.com/tefirman)             |
-| Michael Franklin      | Centre for Population Genomics        | [illusional](https://github.com/illusional)         |
 | Jeff Gentry           | Fulcrum Genomics                      | [geoffjentry](https://github.com/geoffjentry)       |
 | Peter Huene           | St. Jude Children's Research Hospital | [peterhuene](https://github.com/peterhuene)         |
 | Mike Lin              | Chan Zuckerberg Initiative            | [mlin](https://github.com/mlin)                     |
