@@ -38,6 +38,8 @@ At the core group's discretion a new member may be added by a majority vote. Thi
 - consistent, active participation in community discussions and RFCs, and
 - contributing to documentation or the website (content or blogs).
 
+If you're interested in joining the governance committee, please [join Slack][join-slack] and let us know in the `#general` channel.
+
 Generally members are only removed at their own request are due to very long term inactivity. In extreme circumstances the core group can vote to remove a member.
 
 # The RFC process
@@ -47,3 +49,5 @@ Any changes submitted to the WDL specification, project priorities, or the relea
 # Contributing to the OpenWDL project
 
 All contributors to the OpenWDL project must read and abide by the principles laid out in the [`CONTRIBUTING.md`](./CONTRIBUTING.md) document. This applies to _all_ codebases under the OpenWDL organization—not just the specification.
+
+[join-slack]: https://join.slack.com/t/openwdl/shared_invite/zt-ctmj4mhf-cFBNxIiZYs6SY9HgM9UAVw
