@@ -1,5 +1,5 @@
 <div style="align: center">
-  <img src="./.github/assets/readme-header.png">
+  <img src=".github/assets/readme-header.svg">
 </div>
 
 <br />
