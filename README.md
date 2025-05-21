@@ -25,7 +25,6 @@ The current members of the governance committee are:
 | Patrick Magee         | DNAstack                              | [patmagee](https://github.com/patmagee)             |
 | Venkat Malladi        | Microsoft                             | [vsmalladi](https://github.com/vsmalladi)           |
 | Clay McLeod           | St. Jude Children's Research Hospital | [claymcleod](https://github.com/claymcleod)         |
-| Brian O'Connor        | Sage Bionetworks                      | [briandoconnor](https://github.com/briandoconnor)   |
 | Mark Schreiber        | Amazon                                | [markjschreiber](https://github.com/markjschreiber) |
 | Ruben Vorderman       | Leiden University Medical Center      | [rhpvorderman](https://github.com/rhpvorderman)     |
 
