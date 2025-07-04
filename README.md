@@ -14,7 +14,7 @@ Smaller issues, such as clarifications to the existing specification that keep t
 
 The current members of the governance committee are:
 
-| Name                  | Organization                          | github                                              |
+| Name                  | Organization                          | Github                                              |
 | :-------------------- | :------------------------------------ | :-------------------------------------------------- |
 | John Didion           | Fulcrum Genomics                      | [jdidion](https://github.com/jdidion)               |
 | Taylor Firman         | Fred Hutch                            | [tefirman](https://github.com/tefirman)             |
@@ -28,6 +28,14 @@ The current members of the governance committee are:
 | Mark Schreiber        | Amazon                                | [markjschreiber](https://github.com/markjschreiber) |
 | Ruben Vorderman       | Leiden University Medical Center      | [rhpvorderman](https://github.com/rhpvorderman)     |
 
+Previous members of the governance committee include:
+
+| Name                     | Github                                            |
+| :----------------------- | :------------------------------------------------ |
+| Brian O'Connor           | [briandoconnor](https://github.com/briandoconnor) |
+| Geraldine Van der Auwera | [vdauwera](https://github.com/vdauwera)           |
+| Michael Franklin         | [illusional](https://github.com/illusional)       |
+
 ## Adding a new member
 
 At the core group's discretion a new member may be added by a majority vote. This addition will be done to recognize **significant** contributions to the community. _Contributions_ include such things as:
@@ -39,7 +47,9 @@ At the core group's discretion a new member may be added by a majority vote. Thi
 
 If you're interested in joining the governance committee, please [join Slack][join-slack] and let us know in the `#general` channel.
 
-Generally members are only removed at their own request are due to very long term inactivity. In extreme circumstances the core group can vote to remove a member.
+## Removal of a member
+
+Generally members are removed (a) at their own request or (b) due to inactivity. Committee meetings occur monthly and, committee members are expected to attend at least one governance meeting per quarter. Committee members can be removed if they fail to attend meetings at this frequency. Exceptions are made in cases of leave. In extreme circumstances the core group can vote to remove a member.
 
 # The RFC process
 
