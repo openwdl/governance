@@ -23,7 +23,7 @@ The current members of the governance committee are:
 | Mike Lin              | Chan Zuckerberg Initiative            | [mlin](https://github.com/mlin)                     |
 | Christopher Llanwarne | Broad Institute                       | [cjllanwarne](https://github.com/cjllanwarne)       |
 | Patrick Magee         | DNAstack                              | [patmagee](https://github.com/patmagee)             |
-| Venkat Malladi        | Microsoft                             | [vsmalladi](https://github.com/vsmalladi)           |
+| Venkat Malladi        | Quest Diagnostics                             | [vsmalladi](https://github.com/vsmalladi)           |
 | Clay McLeod           | St. Jude Children's Research Hospital | [claymcleod](https://github.com/claymcleod)         |
 | Mark Schreiber        | Amazon                                | [markjschreiber](https://github.com/markjschreiber) |
 | Ruben Vorderman       | Leiden University Medical Center      | [rhpvorderman](https://github.com/rhpvorderman)     |
