@@ -22,8 +22,8 @@ The current members of the governance committee are:
 | Peter Huene           | St. Jude Children's Research Hospital | [peterhuene](https://github.com/peterhuene)         |
 | Mike Lin              | Chan Zuckerberg Initiative            | [mlin](https://github.com/mlin)                     |
 | Christopher Llanwarne | Broad Institute                       | [cjllanwarne](https://github.com/cjllanwarne)       |
-| Patrick Magee         | DNAstack                              | [patmagee](https://github.com/patmagee)             |
-| Venkat Malladi        | Quest Diagnostics                             | [vsmalladi](https://github.com/vsmalladi)           |
+| Patrick Magee         | Grafana                               | [patmagee](https://github.com/patmagee)             |
+| Venkat Malladi        | Quest Diagnostics                     | [vsmalladi](https://github.com/vsmalladi)           |
 | Clay McLeod           | St. Jude Children's Research Hospital | [claymcleod](https://github.com/claymcleod)         |
 | Mark Schreiber        | Amazon                                | [markjschreiber](https://github.com/markjschreiber) |
 | Ruben Vorderman       | Leiden University Medical Center      | [rhpvorderman](https://github.com/rhpvorderman)     |
